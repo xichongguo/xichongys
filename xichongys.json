@@ -656,6 +656,12 @@
         {
           "name": "CCTV-12",
           "urls": [
+            "https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d01a06b42a10c31f3ccb417bae200ac3028f30a8110509f2cd6cd130aee4b21c85693aa49817f3381e4d28e140d8db1a20b6fecea22fec17a70ff1341efe6081"
+          ]
+        },
+        {
+          "name": "CCTV-12",
+          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv12"
           ]
         },
@@ -735,6 +741,12 @@
           "name": "CCTV-14",
           "urls": [
             "https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135"
+          ]
+        },
+        {
+          "name": "CCTV-14",
+          "urls": [
+            "https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0"
           ]
         },
         {
