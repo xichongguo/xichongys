@@ -698,6 +698,12 @@
         {
           "name": "CCTV-13",
           "urls": [
+            "https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec"
+          ]
+        },
+        {
+          "name": "CCTV-13",
+          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv13"
           ]
         },
