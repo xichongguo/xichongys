@@ -398,12 +398,6 @@
         {
           "name": "CCTV-3",
           "urls": [
-            "http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
-          ]
-        },
-        {
-          "name": "CCTV-3",
-          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv3"
           ]
         },
@@ -441,12 +435,6 @@
           "name": "CCTV-6",
           "urls": [
             "http://112.27.235.94:8000/hls/7/index.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-6",
-          "urls": [
-            "http://61.156.228.12:8154/tsfile/live/0006_1.m3u8"
           ]
         },
         {
@@ -639,6 +627,12 @@
           "name": "CCTV-14",
           "urls": [
             "https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135"
+          ]
+        },
+        {
+          "name": "CCTV-14",
+          "urls": [
+            "https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0"
           ]
         },
         {
@@ -1370,12 +1364,6 @@
         {
           "name": "内蒙古卫视",
           "urls": [
-            "http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226919/1.m3u8"
-          ]
-        },
-        {
-          "name": "内蒙古卫视",
-          "urls": [
             "http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634"
           ]
         },
@@ -1425,6 +1413,12 @@
           "name": "内蒙古卫视",
           "urls": [
             "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8"
           ]
         },
         {
@@ -1484,12 +1478,6 @@
         {
           "name": "北京卫视",
           "urls": [
-            "http://112.123.243.37:50085/tsfile/live/0127_1.m3u8"
-          ]
-        },
-        {
-          "name": "北京卫视",
-          "urls": [
             "http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143"
           ]
         },
@@ -1533,6 +1521,12 @@
           "name": "北京卫视",
           "urls": [
             "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8"
           ]
         },
         {
@@ -1670,30 +1664,6 @@
         {
           "name": "四川卫视",
           "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.1.250:2126"
-          ]
-        },
-        {
-          "name": "四川卫视",
-          "urls": [
-            "http://171.125.90.120:6001/rtp/226.0.1.250:2126"
-          ]
-        },
-        {
-          "name": "四川卫视",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.1.250:2126"
-          ]
-        },
-        {
-          "name": "四川卫视",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.1.250:2126"
-          ]
-        },
-        {
-          "name": "四川卫视",
-          "urls": [
             "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338"
           ]
         },
@@ -1725,6 +1695,30 @@
           "name": "四川卫视",
           "urls": [
             "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/1.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8"
           ]
         },
         {
@@ -2168,12 +2162,6 @@
         {
           "name": "山西卫视",
           "urls": [
-            "http://tnvcn.com:8012/rtp/239.3.1.42:8172"
-          ]
-        },
-        {
-          "name": "山西卫视",
-          "urls": [
             "http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114"
           ]
         },
@@ -2223,6 +2211,12 @@
           "name": "山西卫视",
           "urls": [
             "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "https://stream1.freetv.fun/shan-xi-wei-shi-25.m3u8"
           ]
         },
         {
@@ -2366,12 +2360,6 @@
         {
           "name": "广西卫视",
           "urls": [
-            "http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226915/1.m3u8"
-          ]
-        },
-        {
-          "name": "广西卫视",
-          "urls": [
             "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549"
           ]
         },
@@ -2421,6 +2409,12 @@
           "name": "广西卫视",
           "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=guangxi"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8"
           ]
         },
         {
@@ -3410,12 +3404,6 @@
         {
           "name": "湖南卫视",
           "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.1.246:2125"
-          ]
-        },
-        {
-          "name": "湖南卫视",
-          "urls": [
             "http://zqh2333.top:2222/rtp/239.94.0.116:5140"
           ]
         },
@@ -3423,18 +3411,6 @@
           "name": "湖南卫视",
           "urls": [
             "http://171.125.90.120:6001/rtp/226.0.1.246:2125"
-          ]
-        },
-        {
-          "name": "湖南卫视",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.1.246:2125"
-          ]
-        },
-        {
-          "name": "湖南卫视",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.1.246:2125"
           ]
         },
         {
@@ -3459,6 +3435,24 @@
           "name": "湖南卫视",
           "urls": [
             "http://iptv.huuc.edu.cn/hls/hunanhd.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8"
           ]
         },
         {
@@ -4143,18 +4137,6 @@
           "name": "四川科教",
           "urls": [
             "https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv"
-          ]
-        },
-        {
-          "name": "广安公共",
-          "urls": [
-            "http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8"
-          ]
-        },
-        {
-          "name": "广安公共",
-          "urls": [
-            "http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd"
           ]
         },
         {
@@ -5517,6 +5499,12 @@
           "name": "湖北生活",
           "urls": [
             "https://stream1.freetv.fun/hu-bei-sheng-huo-8.ctv"
+          ]
+        },
+        {
+          "name": "湖北生活",
+          "urls": [
+            "https://stream1.freetv.fun/hu-bei-sheng-huo-2.m3u8"
           ]
         },
         {
@@ -7526,13 +7514,13 @@
         {
           "name": "湖州文化娱乐",
           "urls": [
-            "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl="
+            "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887"
           ]
         },
         {
           "name": "湖州文化娱乐",
           "urls": [
-            "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887"
+            "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl="
           ]
         },
         {
@@ -7544,13 +7532,13 @@
         {
           "name": "湖州新闻综合",
           "urls": [
-            "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl="
+            "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl="
           ]
         },
         {
           "name": "湖州新闻综合",
           "urls": [
-            "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl="
+            "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl="
           ]
         },
         {
@@ -7880,6 +7868,12 @@
         {
           "name": "山东文旅",
           "urls": [
+            "http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "山东文旅",
+          "urls": [
             "http://58.57.40.22:9901/tsfile/live/1023_1.m3u8"
           ]
         },
@@ -7980,6 +7974,12 @@
           ]
         },
         {
+          "name": "枣庄教育",
+          "urls": [
+            "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=64e23d&tk=6949f8ce7202"
+          ]
+        },
+        {
           "name": "济南教育",
           "urls": [
             "https://stream1.freetv.fun/ji-nan-jiao-yu-1.m3u8"
@@ -8037,36 +8037,6 @@
           "name": "潍坊新闻综合",
           "urls": [
             "https://stream1.freetv.fun/ipv6-wei-fang-xin-wen-zong-he-1.m3u8"
-          ]
-        },
-        {
-          "name": "菏泽一套新闻综合",
-          "urls": [
-            "http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8"
-          ]
-        },
-        {
-          "name": "菏泽新闻综合",
-          "urls": [
-            "http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd"
-          ]
-        },
-        {
-          "name": "菏泽新闻综合",
-          "urls": [
-            "http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8"
-          ]
-        },
-        {
-          "name": "菏泽经济生活",
-          "urls": [
-            "http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8"
-          ]
-        },
-        {
-          "name": "菏泽经济生活",
-          "urls": [
-            "http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd"
           ]
         },
         {
@@ -9188,13 +9158,13 @@
         {
           "name": "桂林新闻",
           "urls": [
-            "https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188"
+            "https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188"
           ]
         },
         {
           "name": "桂林新闻",
           "urls": [
-            "https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188"
+            "https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188"
           ]
         },
         {
@@ -9374,31 +9344,13 @@
         {
           "name": "山西经济与科技",
           "urls": [
-            "http://113.25.107.142:10000/rtp/239.1.1.3:8003"
-          ]
-        },
-        {
-          "name": "山西经济与科技",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.236:9800"
-          ]
-        },
-        {
-          "name": "山西经济与科技",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.236:9800"
-          ]
-        },
-        {
-          "name": "山西经济与科技",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.236:9800"
-          ]
-        },
-        {
-          "name": "山西经济与科技",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.236:9800"
+          ]
+        },
+        {
+          "name": "山西经济与科技",
+          "urls": [
+            "http://113.25.107.142:10000/rtp/239.1.1.3:8003"
           ]
         },
         {
@@ -9926,25 +9878,25 @@
         {
           "name": "哈尔滨娱乐",
           "urls": [
+            "http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨娱乐",
+          "urls": [
+            "https://stream.hrbtv.net/ylpd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨娱乐",
+          "urls": [
+            "http://stream.hrbtv.net/ylpd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨娱乐",
+          "urls": [
             "http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild"
-          ]
-        },
-        {
-          "name": "哈尔滨影视",
-          "urls": [
-            "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild"
-          ]
-        },
-        {
-          "name": "哈尔滨影视",
-          "urls": [
-            "http://stream.hrbtv.net/yspd/sd/live.m3u8"
-          ]
-        },
-        {
-          "name": "哈尔滨影视",
-          "urls": [
-            "https://stream.hrbtv.net/yspd/sd/live.m3u8"
           ]
         },
         {
@@ -9956,7 +9908,25 @@
         {
           "name": "哈尔滨影视",
           "urls": [
+            "https://stream.hrbtv.net/yspd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨影视",
+          "urls": [
+            "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild"
+          ]
+        },
+        {
+          "name": "哈尔滨影视",
+          "urls": [
             "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨影视",
+          "urls": [
+            "http://stream.hrbtv.net/yspd/sd/live.m3u8"
           ]
         },
         {
@@ -9986,7 +9956,31 @@
         {
           "name": "哈尔滨生活",
           "urls": [
+            "https://stream.hrbtv.net/shpd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨生活",
+          "urls": [
+            "https://stream.hrbtv.net/shpd/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨生活",
+          "urls": [
             "http://stream.hrbtv.net/shpd/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "哈尔滨生活",
+          "urls": [
+            "http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild"
+          ]
+        },
+        {
+          "name": "哈尔滨生活",
+          "urls": [
+            "http://111.43.126.240:9003/hls/3/index.m3u8"
           ]
         },
         {
@@ -11016,42 +11010,6 @@
           ]
         },
         {
-          "name": "伊犁哈萨克",
-          "urls": [
-            "http://110.153.180.106:55555/out_3/index.m3u8"
-          ]
-        },
-        {
-          "name": "伊犁汉语综合",
-          "urls": [
-            "http://110.153.180.106:55555/out_1/index.m3u8?zxinjd"
-          ]
-        },
-        {
-          "name": "伊犁汉语综合",
-          "urls": [
-            "http://110.153.180.106:55555/out_1/index.m3u8"
-          ]
-        },
-        {
-          "name": "伊犁经济法制",
-          "urls": [
-            "http://110.153.180.106:55555/out_4/index.m3u8?zxinjd"
-          ]
-        },
-        {
-          "name": "伊犁维吾尔",
-          "urls": [
-            "http://110.153.180.106:55555/out_2/index.m3u8"
-          ]
-        },
-        {
-          "name": "伊犁维吾尔",
-          "urls": [
-            "http://110.153.180.106:55555/out_2/index.m3u8?zxinjd"
-          ]
-        },
-        {
           "name": "哈密一套",
           "urls": [
             "https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv"
@@ -11091,12 +11049,6 @@
           "name": "经典香港电影",
           "urls": [
             "https://migu.188766.xyz/?migutoken=9448245a0eebe070dc893b9c40ca6058&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy"
-          ]
-        },
-        {
-          "name": "CHC动作电影",
-          "urls": [
-            "http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8"
           ]
         },
         {
@@ -11154,9 +11106,9 @@
           ]
         },
         {
-          "name": "CHC家庭影院",
+          "name": "CHC动作电影",
           "urls": [
-            "http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8"
+            "https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.ctv"
           ]
         },
         {
@@ -11214,9 +11166,9 @@
           ]
         },
         {
-          "name": "CHC高清电影",
+          "name": "CHC家庭影院",
           "urls": [
-            "http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv"
+            "https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv"
           ]
         },
         {
@@ -11234,13 +11186,13 @@
         {
           "name": "CHC高清电影",
           "urls": [
-            "http://dassby.qqff.top:99/live/CHC高清/index.m3u8"
+            "http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv"
           ]
         },
         {
-          "name": "IPTV经典电影",
+          "name": "CHC高清电影",
           "urls": [
-            "http://tnvcn.com:8012/rtp/239.3.1.195:9024"
+            "http://dassby.qqff.top:99/live/CHC高清/index.m3u8"
           ]
         },
         {
@@ -11888,7 +11840,7 @@
         {
           "name": "东森综合",
           "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40"
+            "https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40"
           ]
         },
         {
@@ -11900,7 +11852,7 @@
         {
           "name": "东森综合",
           "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40"
+            "https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40"
           ]
         },
         {
@@ -11918,7 +11870,7 @@
         {
           "name": "东森超视",
           "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331"
+            "https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40"
           ]
         },
         {
@@ -11930,7 +11882,7 @@
         {
           "name": "东森超视",
           "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40"
+            "https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331"
           ]
         },
         {
@@ -12290,13 +12242,13 @@
         {
           "name": "翡翠台",
           "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』"
+            "https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40"
           ]
         },
         {
           "name": "翡翠台",
           "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40"
+            "https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』"
           ]
         },
         {
@@ -12440,25 +12392,7 @@
         {
           "name": "怀旧剧场",
           "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.224:9704"
-          ]
-        },
-        {
-          "name": "怀旧剧场",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.224:9704"
-          ]
-        },
-        {
-          "name": "怀旧剧场",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.224:9704"
-          ]
-        },
-        {
-          "name": "怀旧剧场",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.224:9704"
           ]
         },
         {
@@ -12744,7 +12678,7 @@
           ]
         },
         {
-          "name": "2025-11-27 18:35:54",
+          "name": "2025-11-29 06:25:13",
           "urls": [
             "http://php.jdshipin.com/TVOD/iptv.php?id=rthk33"
           ]
@@ -12758,25 +12692,13 @@
         {
           "name": "CETV-1",
           "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.181:9360"
-          ]
-        },
-        {
-          "name": "CETV-1",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.181:9360"
+            "http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8"
           ]
         },
         {
           "name": "CETV-1",
           "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.181:9360"
-          ]
-        },
-        {
-          "name": "CETV-1",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.181:9360"
           ]
         },
         {
@@ -12810,9 +12732,15 @@
           ]
         },
         {
-          "name": "CETV-2",
+          "name": "CETV-1",
           "urls": [
-            "http://113.25.107.142:10000/rtp/239.1.1.66:8066"
+            "https://cc06.tv12.xyz/23.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-1",
+          "urls": [
+            "http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8"
           ]
         },
         {
@@ -12870,6 +12798,12 @@
           ]
         },
         {
+          "name": "CETV-2",
+          "urls": [
+            "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android"
+          ]
+        },
+        {
           "name": "CETV-3",
           "urls": [
             "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8"
@@ -12903,12 +12837,6 @@
           "name": "CETV-3",
           "urls": [
             "http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3"
-          ]
-        },
-        {
-          "name": "CETV-4",
-          "urls": [
-            "http://113.25.107.142:10000/rtp/239.1.1.67:8067"
           ]
         },
         {
@@ -12963,6 +12891,12 @@
           "name": "CETV-4",
           "urls": [
             "http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-4",
+          "urls": [
+            "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=2025090309003329cd481a5313461999ea66e0b5c14a1b&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a0dd23e241f091b5c99903fbe22f27e3&ddCalcu=3ae0v7da2dbf2a232ee2b4f13f0099919bc5&sv=10004&ct=android"
           ]
         },
         {
@@ -13544,7 +13478,7 @@
         {
           "name": "九台综合",
           "urls": [
-            "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
+            "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8"
           ]
         },
         {
@@ -13556,7 +13490,7 @@
         {
           "name": "九台综合",
           "urls": [
-            "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8"
+            "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
           ]
         },
         {
@@ -13914,12 +13848,6 @@
           ]
         },
         {
-          "name": "全纪实",
-          "urls": [
-            "http://183.220.107.138:4022/rtp/239.10.0.105:5140"
-          ]
-        },
-        {
           "name": "六合新闻综合",
           "urls": [
             "http://p2hs.vzan.com/720020/432453820030502236/live.m3u8"
@@ -13971,24 +13899,6 @@
           "name": "兵器科技",
           "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.223:9696"
-          ]
-        },
-        {
-          "name": "兵器科技",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.223:9696"
-          ]
-        },
-        {
-          "name": "兵器科技",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.223:9696"
-          ]
-        },
-        {
-          "name": "兵器科技",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.223:9696"
           ]
         },
         {
@@ -15080,37 +14990,13 @@
         {
           "name": "奎屯哈萨克语",
           "urls": [
-            "http://218.84.12.186:8002/hls/main/playlist.m3u8"
+            "http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd"
           ]
         },
         {
           "name": "奎屯哈萨克语",
           "urls": [
-            "http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd"
-          ]
-        },
-        {
-          "name": "女性时尚",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.226:9720"
-          ]
-        },
-        {
-          "name": "女性时尚",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.226:9720"
-          ]
-        },
-        {
-          "name": "女性时尚",
-          "urls": [
-            "http://171.125.90.120:6001/rtp/226.0.2.226:9720"
-          ]
-        },
-        {
-          "name": "女性时尚",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.226:9720"
+            "http://218.84.12.186:8002/hls/main/playlist.m3u8"
           ]
         },
         {
@@ -15378,6 +15264,12 @@
           ]
         },
         {
+          "name": "广元公共",
+          "urls": [
+            "http://3g.dzsm.com/streamer/gy04.m3u8"
+          ]
+        },
+        {
           "name": "广元综合",
           "urls": [
             "https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8"
@@ -15530,25 +15422,7 @@
         {
           "name": "文化精品",
           "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.219:9664"
-          ]
-        },
-        {
-          "name": "文化精品",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.219:9664"
-          ]
-        },
-        {
-          "name": "文化精品",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.219:9664"
-          ]
-        },
-        {
-          "name": "文化精品",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.219:9664"
           ]
         },
         {
@@ -16118,19 +15992,13 @@
         {
           "name": "武进新闻",
           "urls": [
-            "https://live.wjyanghu.com/live/CH1.m3u8"
+            "https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
           ]
         },
         {
           "name": "武进新闻",
           "urls": [
-            "https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
-          ]
-        },
-        {
-          "name": "武进生活",
-          "urls": [
-            "https://live.wjyanghu.com/live/CH2.m3u8"
+            "https://live.wjyanghu.com/live/CH1.m3u8"
           ]
         },
         {
@@ -16143,6 +16011,12 @@
           "name": "武进生活",
           "urls": [
             "https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
+          ]
+        },
+        {
+          "name": "武进生活",
+          "urls": [
+            "https://live.wjyanghu.com/live/CH2.m3u8"
           ]
         },
         {
@@ -16232,13 +16106,13 @@
         {
           "name": "汪清综合",
           "urls": [
-            "http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781"
+            "http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild"
           ]
         },
         {
           "name": "汪清综合",
           "urls": [
-            "http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild"
+            "http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781"
           ]
         },
         {
@@ -16322,30 +16196,6 @@
         {
           "name": "法治天地",
           "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.83:8576"
-          ]
-        },
-        {
-          "name": "法治天地",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.83:8576"
-          ]
-        },
-        {
-          "name": "法治天地",
-          "urls": [
-            "http://171.125.90.120:6001/rtp/226.0.2.83:8576"
-          ]
-        },
-        {
-          "name": "法治天地",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.83:8576"
-          ]
-        },
-        {
-          "name": "法治天地",
-          "urls": [
             "http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424"
           ]
         },
@@ -16371,6 +16221,30 @@
           "name": "法治天地",
           "urls": [
             "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281"
+          ]
+        },
+        {
+          "name": "法治天地",
+          "urls": [
+            "http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&Ace"
+          ]
+        },
+        {
+          "name": "法治天地",
+          "urls": [
+            "http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8"
+          ]
+        },
+        {
+          "name": "法治天地",
+          "urls": [
+            "http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8"
+          ]
+        },
+        {
+          "name": "法治天地",
+          "urls": [
+            "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/1.m3u8"
           ]
         },
         {
@@ -16442,13 +16316,13 @@
         {
           "name": "海宁新闻综合",
           "urls": [
-            "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8"
+            "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815"
           ]
         },
         {
           "name": "海宁新闻综合",
           "urls": [
-            "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815"
+            "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8"
           ]
         },
         {
@@ -17048,25 +16922,7 @@
         {
           "name": "电视指南",
           "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.218:9656"
-          ]
-        },
-        {
-          "name": "电视指南",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.218:9656"
-          ]
-        },
-        {
-          "name": "电视指南",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.218:9656"
-          ]
-        },
-        {
-          "name": "电视指南",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.218:9656"
           ]
         },
         {
@@ -17258,13 +17114,13 @@
         {
           "name": "秦安综合",
           "urls": [
-            "https://play.kankanlive.com/live/1659926941626981.m3u8"
+            "http://play.kankanlive.com/live/1683944827526991.m3u8"
           ]
         },
         {
           "name": "秦安综合",
           "urls": [
-            "http://play.kankanlive.com/live/1683944827526991.m3u8"
+            "https://play.kankanlive.com/live/1659926941626981.m3u8"
           ]
         },
         {
@@ -17294,25 +17150,7 @@
         {
           "name": "第一剧场",
           "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.221:9680"
-          ]
-        },
-        {
-          "name": "第一剧场",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.221:9680"
-          ]
-        },
-        {
-          "name": "第一剧场",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.221:9680"
-          ]
-        },
-        {
-          "name": "第一剧场",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.221:9680"
           ]
         },
         {
@@ -17456,12 +17294,6 @@
         {
           "name": "纪实人文",
           "urls": [
-            "http://113.25.107.142:10000/rtp/239.1.1.45:8045"
-          ]
-        },
-        {
-          "name": "纪实人文",
-          "urls": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8"
           ]
         },
@@ -17486,6 +17318,12 @@
         {
           "name": "纬来体育",
           "urls": [
+            "https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40"
+          ]
+        },
+        {
+          "name": "纬来体育",
+          "urls": [
             "https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40"
           ]
         },
@@ -17493,12 +17331,6 @@
           "name": "纬来体育",
           "urls": [
             "https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40"
-          ]
-        },
-        {
-          "name": "纬来体育",
-          "urls": [
-            "https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40"
           ]
         },
         {
@@ -18020,13 +17852,13 @@
         {
           "name": "辉南新闻综合",
           "urls": [
-            "http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild"
+            "http://stream5.jlntv.cn/hn/sd/live.m3u8"
           ]
         },
         {
           "name": "辉南新闻综合",
           "urls": [
-            "http://stream5.jlntv.cn/hn/sd/live.m3u8"
+            "http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild"
           ]
         },
         {
@@ -18116,25 +17948,7 @@
         {
           "name": "都市剧场",
           "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.81:8560"
-          ]
-        },
-        {
-          "name": "都市剧场",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.81:8560"
-          ]
-        },
-        {
-          "name": "都市剧场",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.81:8560"
-          ]
-        },
-        {
-          "name": "都市剧场",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.81:8560"
           ]
         },
         {
@@ -18162,6 +17976,24 @@
           ]
         },
         {
+          "name": "都市剧场",
+          "urls": [
+            "http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/index.m3u8"
+          ]
+        },
+        {
+          "name": "都市剧场",
+          "urls": [
+            "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8"
+          ]
+        },
+        {
+          "name": "都市剧场",
+          "urls": [
+            "https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12"
+          ]
+        },
+        {
           "name": "鄢陵综合",
           "urls": [
             "http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
@@ -18182,24 +18014,6 @@
         {
           "name": "重庆汽摩",
           "urls": [
-            "http://183.64.181.25:40023/rongchang01.m3u8"
-          ]
-        },
-        {
-          "name": "重庆汽摩",
-          "urls": [
-            "http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
-          ]
-        },
-        {
-          "name": "重庆汽摩",
-          "urls": [
-            "http://183.230.184.51:65500/tntv1.m3u8"
-          ]
-        },
-        {
-          "name": "重庆汽摩",
-          "urls": [
             "http://183.230.184.51:65500/tntv1.m3u8?zzhongqd"
           ]
         },
@@ -18212,19 +18026,37 @@
         {
           "name": "重庆汽摩",
           "urls": [
+            "http://183.64.181.25:40023/rongchang01.m3u8"
+          ]
+        },
+        {
+          "name": "重庆汽摩",
+          "urls": [
+            "http://183.230.184.51:65500/tntv1.m3u8"
+          ]
+        },
+        {
+          "name": "重庆汽摩",
+          "urls": [
+            "http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
+          ]
+        },
+        {
+          "name": "重庆汽摩",
+          "urls": [
             "http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
           ]
         },
         {
           "name": "重庆汽摩",
           "urls": [
-            "http://222.179.155.21:1935/ch1.m3u8?zzhongqd"
+            "http://222.179.155.21:1935/ch1.m3u8"
           ]
         },
         {
           "name": "重庆汽摩",
           "urls": [
-            "http://222.179.155.21:1935/ch1.m3u8"
+            "http://222.179.155.21:1935/ch1.m3u8?zzhongqd"
           ]
         },
         {
@@ -18392,13 +18224,13 @@
         {
           "name": "铜梁综合",
           "urls": [
-            "http://183.64.174.171:40123/ch1.m3u8?zzhongqd"
+            "http://183.64.174.171:40123/ch1.m3u8"
           ]
         },
         {
           "name": "铜梁综合",
           "urls": [
-            "http://183.64.174.171:40123/ch1.m3u8"
+            "http://183.64.174.171:40123/ch1.m3u8?zzhongqd"
           ]
         },
         {
@@ -18656,24 +18488,6 @@
         {
           "name": "风云剧场",
           "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.227:9728"
-          ]
-        },
-        {
-          "name": "风云剧场",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.227:9728"
-          ]
-        },
-        {
-          "name": "风云剧场",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.227:9728"
-          ]
-        },
-        {
-          "name": "风云剧场",
-          "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.227:9728"
           ]
         },
@@ -18770,30 +18584,6 @@
         {
           "name": "风云音乐",
           "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.220:9672"
-          ]
-        },
-        {
-          "name": "风云音乐",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.220:9672"
-          ]
-        },
-        {
-          "name": "风云音乐",
-          "urls": [
-            "http://171.125.90.120:6001/rtp/226.0.2.220:9672"
-          ]
-        },
-        {
-          "name": "风云音乐",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.220:9672"
-          ]
-        },
-        {
-          "name": "风云音乐",
-          "urls": [
             "https://hls-gateway.vpstv.net/streams/708858.m3u8"
           ]
         },
@@ -18819,24 +18609,6 @@
           "name": "高尔夫网球",
           "urls": [
             "http://171.125.90.120:6001/rtp/226.0.2.217:9648"
-          ]
-        },
-        {
-          "name": "高尔夫网球",
-          "urls": [
-            "http://171.119.206.232:6000/rtp/226.0.2.217:9648"
-          ]
-        },
-        {
-          "name": "高尔夫网球",
-          "urls": [
-            "http://124.163.102.19:6000/rtp/226.0.2.217:9648"
-          ]
-        },
-        {
-          "name": "高尔夫网球",
-          "urls": [
-            "http://183.184.47.145:8001/rtp/226.0.2.217:9648"
           ]
         },
         {
