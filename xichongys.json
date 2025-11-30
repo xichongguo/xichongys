@@ -398,12 +398,6 @@
         {
           "name": "CCTV-3",
           "urls": [
-            "http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
-          ]
-        },
-        {
-          "name": "CCTV-3",
-          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv3"
           ]
         },
@@ -441,12 +435,6 @@
           "name": "CCTV-6",
           "urls": [
             "http://112.27.235.94:8000/hls/7/index.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-6",
-          "urls": [
-            "http://61.156.228.12:8154/tsfile/live/0006_1.m3u8"
           ]
         },
         {
@@ -560,7 +548,7 @@
         {
           "name": "CCTV-12",
           "urls": [
-            "http://112.123.243.37:50085/tsfile/live/0013_1.m3u8"
+            "http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226447/.m3u8"
           ]
         },
         {
