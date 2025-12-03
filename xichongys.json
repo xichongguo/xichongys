@@ -356,12 +356,6 @@
         {
           "name": "CCTV-1",
           "urls": [
-            "http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv"
-          ]
-        },
-        {
-          "name": "CCTV-1",
-          "urls": [
             "http://php.jdshipin.com/TVOD/iptv.php?id=rthk33"
           ]
         },
@@ -386,12 +380,6 @@
         {
           "name": "CCTV-2",
           "urls": [
-            "http://pull-skycorp.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNsNRHYvGhZHFxhSHx8cqakkdgd999.flv"
-          ]
-        },
-        {
-          "name": "CCTV-2",
-          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv2"
           ]
         },
@@ -404,25 +392,19 @@
         {
           "name": "CCTV-3",
           "urls": [
+            "http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV-3",
+          "urls": [
             "http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
           ]
         },
         {
           "name": "CCTV-3",
           "urls": [
-            "http://pull-skycorp.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNsNRHY3evb3dZyF.flv"
-          ]
-        },
-        {
-          "name": "CCTV-3",
-          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv3"
-          ]
-        },
-        {
-          "name": "CCTV-4",
-          "urls": [
-            "http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv"
           ]
         },
         {
@@ -614,12 +596,6 @@
         {
           "name": "CCTV-13",
           "urls": [
-            "http://pull-skycorp.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONsNRHYLWazSU1kmL.flv"
-          ]
-        },
-        {
-          "name": "CCTV-13",
-          "urls": [
             "https://event.pull.hebtv.com/jishi/cp1.m3u8"
           ]
         },
@@ -651,12 +627,6 @@
           "name": "CCTV-14",
           "urls": [
             "http://60.16.0.216:5757/hls/15/index.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-14",
-          "urls": [
-            "http://pull-skycorp.speedws.com/live/pyRhADNsNRHYlBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv"
           ]
         },
         {
