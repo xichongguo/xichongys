@@ -368,12 +368,6 @@
         {
           "name": "CCTV-1",
           "urls": [
-            "https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344"
-          ]
-        },
-        {
-          "name": "CCTV-1",
-          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv1"
           ]
         },
@@ -519,6 +513,12 @@
           "name": "CCTV-9",
           "urls": [
             "http://60.16.0.216:5757/hls/10/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9",
+          "urls": [
+            "https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e"
           ]
         },
         {
