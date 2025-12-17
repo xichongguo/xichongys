@@ -354,6 +354,18 @@
           ]
         },
         {
+          "name": "CCTV-1",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=rthk33"
+          ]
+        },
+        {
+          "name": "CCTV-1",
+          "urls": [
+            "https://smart.pendy.dpdns.org/Smart.php?id=cctv1"
+          ]
+        },
+        {
           "name": "CCTV-2",
           "urls": [
             "http://112.27.235.94:8000/hls/2/index.m3u8"
@@ -362,7 +374,19 @@
         {
           "name": "CCTV-2",
           "urls": [
+            "http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2"
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
             "http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
+            "https://smart.pendy.dpdns.org/Smart.php?id=cctv2"
           ]
         },
         {
@@ -488,6 +512,12 @@
         {
           "name": "CCTV-9",
           "urls": [
+            "https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e"
+          ]
+        },
+        {
+          "name": "CCTV-9",
+          "urls": [
             "https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd"
           ]
         },
@@ -537,12 +567,6 @@
           "name": "CCTV-12",
           "urls": [
             "http://60.16.0.216:5757/hls/13/index.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-12",
-          "urls": [
-            "https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d01a06b42a10c31f3ccb417bae200ac3028f30a8110509f2cd6cd130aee4b21c85693aa49817f3381e4d28e140d8db1a20b6fecea22fec17a70ff1341efe6081"
           ]
         },
         {
