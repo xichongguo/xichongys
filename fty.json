@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "西充影视（正林工作室）",
+      "name": "新增嘟嘟盘，到【太太太硬了】领免费容量",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -685,18 +685,14 @@
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     }
-{
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "GitHub直播源",
-          "urls": [
-            "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8"
-          ]
-        }
-      ]
-    }
-  ],
-    }
   ]
+{
+  "name": "自定义直播源",
+  "type": 0,
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
+  "playerType": 2,
+  "timeout": 10,
+  "ua": "okHttp/Mod-1.5.0.0",
+  "note": "已移除无法解析的 <time_location> 变量"
+}
 }
