@@ -686,12 +686,17 @@
       "ua": "okHttp/Mod-1.5.0.0"
     }
 {
-      "name": "西充TV",
-      "type": 0,
-      "urls": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "GitHub直播源",
+          "urls": [
+            "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
     }
   ]
 }
