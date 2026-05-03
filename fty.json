@@ -686,13 +686,32 @@
       "ua": "okHttp/Mod-1.5.0.0"
     }
   ]
-{
+"lives": [
+  {
+    "name": "佛山本地直播(20260503)",
+    "type": 0,
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/20260503_Guangdong_Foshan.m3u8",
+    "playerType": 2,
+    "timeout": 10,
+    "ua": "okHttp/Mod-1.5.0.0"
+  },
+  {
+    "name": "Kimentanm",
+    "type": 0,
+    "url": "./lib/iptv.m3u",
+    "playerType": 2
+  },
+  {
+    "name": "develop202",
+    "type": 0,
+    "url": "./lib/interface.txt",
+    "playerType": 2,
+    "epg": "http://diyp{
   "name": "自定义直播源",
   "type": 0,
   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
   "playerType": 2,
   "timeout": 10,
-  "ua": "okHttp/Mod-1.5.0.0",
-  "note": "已移除无法解析的 <time_location> 变量"
+  "ua": "okHttp/Mod-1.5.0.0"
 }
 }
