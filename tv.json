@@ -1,6 +1,28 @@
 {
-  "spider": "./ouge.php",
+  "spider": "http://47.120.41.246:8025/vip/jar/ouge.php",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "lives": [
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "playerType": 1
+    },
+    {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
+    }
+{
+      "name": "西充TV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
+  ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -13,12 +35,12 @@
       "key": "hpy_js_豆瓣[官]",
       "name": "VIP豆瓣排行②",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/豆瓣[官].js"
+      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js"
     },
     {
       "key": "配置中心",
@@ -42,7 +64,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/muou.json"
+      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/muou.json"
     },
     {
       "key": "二小",
@@ -53,7 +75,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/erxiao.json"
+      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/erxiao.json"
     },
     {
       "key": "至臻",
@@ -64,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/Test.json"
+      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/Test.json"
     },
     {
       "key": "玩偶",
@@ -75,7 +97,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/wanou.json"
+      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/wanou.json"
     },
     {
       "key": "应用商店",
@@ -90,14 +112,14 @@
       "key": "腾腾",
       "name": "🐧腾腾┃JX",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾腾.js"
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/腾腾.js"
     },
     {
       "key": "九灵移动",
       "name": "九灵❤免扫4K",
       "type": 3,
-      "jar": "./lib/yunY.jar",
+      "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1
@@ -297,7 +319,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLXP.json"
+        "json": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXP.json"
       },
       "style": {
         "type": "rect",
@@ -314,7 +336,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLXQ.json"
+        "json": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json"
       },
       "style": {
         "type": "rect",
@@ -331,7 +353,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/少儿合集.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/少儿合集.json"
       },
       "style": {
         "type": "rect",
@@ -348,7 +370,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/小学课堂.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"
       },
       "style": {
         "type": "rect",
@@ -365,7 +387,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/初中课堂.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/初中课堂.json"
       },
       "style": {
         "type": "rect",
@@ -382,7 +404,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/高中课堂.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"
       },
       "style": {
         "type": "rect",
@@ -399,7 +421,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童口才.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童口才.json"
       },
       "style": {
         "type": "rect",
@@ -416,7 +438,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童拼音.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童拼音.json"
       },
       "style": {
         "type": "rect",
@@ -433,7 +455,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童识字.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童识字.json"
       },
       "style": {
         "type": "rect",
@@ -450,7 +472,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童思维.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童思维.json"
       },
       "style": {
         "type": "rect",
@@ -467,7 +489,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童英语.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童英语.json"
       },
       "style": {
         "type": "rect",
@@ -484,7 +506,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/小灯塔科学.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔科学.json"
       },
       "style": {
         "type": "rect",
@@ -501,7 +523,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/小灯塔国学.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔国学.json"
       },
       "style": {
         "type": "rect",
@@ -518,7 +540,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/小灯塔地理.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔地理.json"
       },
       "style": {
         "type": "rect",
@@ -535,7 +557,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童编程.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童编程.json"
       },
       "style": {
         "type": "rect",
@@ -552,7 +574,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/儿童武术.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童武术.json"
       },
       "style": {
         "type": "rect",
@@ -569,7 +591,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/哔哩套餐1.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐1.json"
       },
       "style": {
         "type": "rect",
@@ -586,7 +608,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/哔哩套餐2.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐2.json"
       },
       "style": {
         "type": "rect",
@@ -603,7 +625,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/歌曲MV.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/歌曲MV.json"
       },
       "style": {
         "type": "rect",
@@ -620,7 +642,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/美食.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/美食.json"
       },
       "style": {
         "type": "rect",
@@ -637,7 +659,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/球类合集.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/球类合集.json"
       },
       "style": {
         "type": "rect",
@@ -654,7 +676,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/球星合集.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/球星合集.json"
       },
       "style": {
         "type": "rect",
@@ -671,7 +693,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/演唱会.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/演唱会.json"
       },
       "style": {
         "type": "rect",
@@ -688,7 +710,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/戏曲合集.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/戏曲合集.json"
       },
       "style": {
         "type": "rect",
@@ -705,7 +727,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/合集.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/合集.json"
       },
       "style": {
         "type": "rect",
@@ -1085,7 +1107,7 @@
           "category": 1,
           "name": "http-detect-range-support",
           "value": "0"
-        },
+"蜘蛛"}{
         {
           "category": 1,
           "name": "fflags",
@@ -1107,7 +1129,7 @@
           "value": "0"
         },
         {
-"category"{4,
+          "category": 4,
           "name": "mediacodec",
           "value": "1"
         },
@@ -1140,25 +1162,3 @@
     "vip.ffzyad.com"
   ]
 }
-  "lives": [
-{
-      "name": "西充TV",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },    
-{
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "playerType": 1
-    },
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1
-    }
-  ]
