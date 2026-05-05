@@ -1,11 +1,10 @@
 {
   "spider": "./ouge.php",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "💖正林西充影视💖（）",
+      "name": "💖正林西充影视💖",
       "type": 3,
       "api": "csp_Douban",
       "jar": "http://47.120.41.246:8025/vip/jar/tan.php"
@@ -1141,6 +1140,11 @@
     "vip.ffzyad.com"
   ]
 }
+  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
+  "hosts": [
+    "img1.wsyzy.org=danmu.888484.xyz",
+    "fiizvfck.top=danmu.888484.xyz"
+  ],
   "lives": [
 {
       "name": "西充TV",
