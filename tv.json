@@ -1,6 +1,28 @@
 {
   "spider": "./ouge.php",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "lives": [
+{
+      "name": "西充TV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },    
+{
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "playerType": 1
+    },
+    {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -1140,31 +1162,3 @@
     "vip.ffzyad.com"
   ]
 }
-
- "hosts": [
-            "img1.wsyzy.org=danmu.888484.xyz",
-            "fiizvfck.top=danmu.888484.xyz"
-        ],
-        "lives": [
-            {
-                "name": "西充TV",
-                "type": 0,
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
-                "playerType": 2,
-                "timeout": 10,
-                "ua": "okHttp/Mod-1.5.0.0"
-            },
-            {
-                "name": "平台直播",
-                "type": 0,
-                "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-                "playerType": 1
-            },
-            {
-                "name": "港澳台",
-                "type": 0,
-                "url": "http://rihou.cc:567/gggg.nzk",
-                "playerType": 1
-            }
-        ]
-    }
