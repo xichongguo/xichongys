@@ -1,5 +1,5 @@
 {
-  "spider": "http://47.120.41.246:8025/vip/jar/ouge.php",
+  "spider": "http://47.120.41.246:8025/vip/jar/aa.php",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "lives": [
     {
@@ -13,27 +13,27 @@
     {
       "name": "平台直播",
       "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "playerType": 1
-    },
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1
-    }
-  ],
-  "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "💖正林西充影视💖",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "http://47.120.41.246:8025/vip/jar/tan.php"
-    },
-    {
-      "key": "hpy_js_豆瓣[官]",
-      "name": "VIP豆瓣排行②",
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php","url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "玩家类型": 1"playerType": 1
+    }},
+    {{
+      "名称": "港澳台","name": "港澳台",
+      "类型": 0,"type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk","url": "http://rihou.cc:567/gggg.nzk",
+      "玩家类型": 1"playerType": 1
+    }}
+  ]],
+  "sites": ["sites": [
+    {{
+      "key": "drpy_js_豆瓣","key": "drpy_js_豆瓣",
+      "名称": "💖正林西充影视💖","name": "💖正林西充影视💖",
+      "类型": 3,"type": 3,
+      "api": "csp_Douban","api": "csp_Douban",
+      "jar": "http://47.120.41.246:8025/vip/jar/tan.php""jar": "http://47.120.41.246:8025/vip/jar/tan.php"
+    }},
+    {{
+      "key": "hpy_js_豆瓣[官]","key": "hpy_js_豆瓣[官]",
+      "名称": "VIP豆瓣排行②""name": "VIP豆瓣排行②",
       "type": 3,
       "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "searchable": 1,
