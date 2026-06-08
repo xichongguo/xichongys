@@ -839,6 +839,9 @@
   ],
   "lives": [
     {
+     "spider": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar",
+     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
+     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
       "name": "西充TV",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xichongguo/live-stream/refs/heads/main/live/current.m3u8",
@@ -846,6 +849,15 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
+    ,
+  "sites": [
+    {
+      "key": "huban",
+      "name": "弹幕|小窗",
+      "type": 3,
+      "api": "csp_Huban"
+    }
+  ]
   ],
   "parses": [],
   "flags": [],
