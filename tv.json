@@ -849,15 +849,6 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-    ,
-  "sites": [
-    {
-      "key": "huban",
-      "name": "弹幕|小窗",
-      "type": 3,
-      "api": "csp_Huban"
-    }
-  ]
   ],
   "parses": [],
   "flags": [],
