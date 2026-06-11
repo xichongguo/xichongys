@@ -848,10 +848,7 @@
     }
   ],
   "warningText": "原广告已被拦截当前使用的是纯净版配置",
-  "ads": [
-    "about:blank",
-    ""
-  ],
+
   "parses": [],
   "flags": [],
   "ijk": [
