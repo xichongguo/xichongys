@@ -13,12 +13,7 @@
       "filterable": 1,
       "ext": "./lib/douban.json"
     },
-    {
-      "key": "FishConfig",
-      "name": "🍼┃设置┃中心",
-      "type": 3,
-      "api": "csp_FishConfig"
-    },
+  
     {
       "key": "YGP",
       "name": "🔔┃新片┃预告",
