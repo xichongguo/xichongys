@@ -848,10 +848,7 @@
     }
   ],
   "warningText": "【系统提示】\n原广告已被拦截\n当前使用的是纯净版配置\nEnjoy Watching!",
-  "ads": [
-    "about:blank",
-    "http://127.0.0.1"
-  ],
+  
   "parses": [],
   "flags": [],
   "ijk": [
