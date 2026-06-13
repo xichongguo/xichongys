@@ -1,39 +1,39 @@
 {
-  "spider": "./fish06131248.jar;md5;3aaeab705d7a434998235c5e0e8a20c1",
+  "蜘蛛": "./fish06101248.jar;md5;3aaeab705d7a434998235c5e0e8a20c1",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
-  "wallpaper": "https://p0.itc.cn/q_70/images03/20210514/3892e583242444ab8ef24082e311bd34.jpeg",
-  "sites": [
+  "壁纸": "https://p0.itc.cn/q_70/images03/20210514/3892e583242444ab8ef24082e311bd34.jpeg",
+  "网站": [
     {
-      "key": "Douban",
-      "name": "💖正林西充影视💖",
-      "type": 3,
-      "api": "csp_Douban",
-      "indexs": 1,
-      "searchable": 0,
-      "filterable": 1,
-      "ext": "./lib/douban.json"
+      "键": "豆瓣",
+      "名称": "💖正林西充影视💖",
+      "类型": 3,
+      "api"："csp_Douban"，
+      "索引": 1,
+      "可搜索的": 0,
+      "可过滤的": 1,
+      "扩展名": "./lib/douban.json"
     },
     {
-      "key": "FishConfig",
-      "name": "🍼┃设置┃中心",
-      "type": 3,
+      "键": "FishConfig",
+      "名称": "🍼┃设置┃中心",
+      "类型": 3,
       "api": "csp_FishConfig"
     },
     {
-      "key": "YGP",
-      "name": "🔔┃新片┃预告",
-      "type": 3,
+      "键": "YGP",
+      "名称": "🔔┃新片┃预告",
+      "类型": 3,
       "api": "csp_YGP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "可搜索的"：1，
+      "快速搜索"：1，
+      "可过滤的": 1
     },
     {
-      "key": "Wogg",
-      "name": "👽️┃玩偶┃4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
+      "键": "Wogg",
+      "名字": "👽️┃玩偶┃4K",
+      "类型": 3,
+      "api"："csp_Wogg"，
+      "可搜索的"：1，
       "changeable": 1,
       "filterable": 1,
       "ext": {
