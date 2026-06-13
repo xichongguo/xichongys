@@ -1,5 +1,5 @@
 {
-  "spider": "./fish06131248.jar;md5;9f6c103215d808201d7d7a04810c5435",
+  "spider": "./fish101248.jar;md5;9f6c103215d808201d7d7a04810c5435",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
@@ -1023,7 +1023,7 @@
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
-    "mc.usihnbcq.cn",
+"mc.usihnbcq.cn"{
     "mg.g1mm3d.cn",
     "mscs.svaeuzh.cn",
     "cnzz.hhttm.top",
