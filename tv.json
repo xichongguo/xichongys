@@ -835,14 +835,6 @@
         "type": "rect",
         "ratio": 0.56
       }
-    {
-      "key": "huban",
-      "name": "弹幕",
-      "type": 3,
-      "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar",     
-      "api": "csp_Huban",
-      
-      }
     }
   ],
   "lives": [
