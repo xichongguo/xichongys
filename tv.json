@@ -3,15 +3,8 @@
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "https://p0.itc.cn/q_70/images03/20210514/3892e583242444ab8ef24082e311bd34.jpeg",
   "sites": [
-    
-     {
-     "key": "导航",
-     "name": "💖正林西充影视💖", 
-     "type": 3,
-     "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar",
-     "api": "csp_Douban"
-}
-{
+
+    {
       "key": "Douban",
       "name": "💖正林西充影视💖",
       "type": 3,
@@ -844,6 +837,13 @@
         "ratio": 0.56
       }
     }
+    {
+      "key": "huban",
+      "name": "弹幕|小窗", 
+      "type": 3,
+      "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar",
+      "api": "csp_Huban"
+      }
   ],
   "lives": [
     {
@@ -1028,7 +1028,7 @@
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
-    "mc.usihnbcq.cn",
+"mc.usihnbcq.cn"{
     "mg.g1mm3d.cn",
     "mscs.svaeuzh.cn",
     "cnzz.hhttm.top",
