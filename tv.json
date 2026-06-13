@@ -1,5 +1,5 @@
 {
-  "spider": "./fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
+  "spider": "./fish06131248.jar;md5;9f6c103215d808201d7d7a04810c5435",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
@@ -834,6 +834,14 @@
       "style": {
         "type": "rect",
         "ratio": 0.56
+      }
+    {
+      "key": "huban",
+      "name": "弹幕",
+      "type": 3,
+      "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar",     
+      "api": "csp_Huban",
+      
       }
     }
   ],
