@@ -1,5 +1,5 @@
 {
-  "spider": "./fish06301918.jar;md5;17468f1ada685433609206d93c84743d",
+  "spider": "./fish07080115.jar;md5;0c8105385e9eb76c619f870748cc1cea",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -117,6 +117,16 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1
+    },
+    {
+      "key": "FengYe",
+      "name": "🍁┆枫叶┆4K",
+      "type": 3,
+      "api": "csp_CupFox",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "ASrqK2y8hBjF6nWBT4VA6nl6pMHBuUkTFU8G1oArN4pFIRBIK3Koep4Mpa+rHr3EEKPvWTsPKevEKAGNJkBG3jYkvcbsm4uMR4SEGFXEVUK5k5GC1r3GrXXjDgc1ezNOEnVyK6ZdKI+xk/a/S3HSnknsxpSteN1SyaZ76LlkHDg8oTcmvsm6VWIJmoLG+EXXFO47gkwl6Z2cGWF6122DYXd9rqv5d1nPkPmMRFOjZmeIQwGet75HMuUQH2SD6tMhrHwqOVYxsZhaEJyp6C5P7lQgMd2fNfTUjdB8IXkeVnT+wuAKOiT09go+UHAmjghG58OMf/v/2ou2/Ojv5RTxZkUiiLZ5tUfJMSW87nNKi1Ak4w3wJ2h0OBR83irMrQjD68TCU0pG+ecPOjclNg7OFlbYxsLd0PPUBDQOAxFhq9+IpEgRp04Fi5Eb9B2exKN8CXuEoyf6ISv5l7FkIamTpm0="
     },
     {
       "key": "BuBu",
@@ -237,15 +247,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "厌离",
-      "name": "🧨┆厌离┆APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AVtyVJ6kSXgrT2v7QqBCLTWZ8hn5XSV5GG6qsT+XxkJuK5qltmoj5gYYzsctl+IDQvsTRlIrdveFw6UiEV/J0AkhFys3+/L7wVwBMTC84tEk66wkwAQIBCu4Ufij4OfwYoVuFQmvSOBefPHLVqqeV83lWUIT0ydlc5U4fcgTTs0uijudZON1U5xO5KeJ9cvf7mW5erAHfalAaeN6iNIXrGA="
     },
     {
       "key": "Libvio",
@@ -457,14 +458,6 @@
           "http://38.76.197.172:12521"
         ]
       }
-    },
-    {
-      "key": "PanTa",
-      "name": "💿┆盘它┆4K",
-      "type": 3,
-      "api": "csp_PanTa",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "夸父",
@@ -916,6 +909,17 @@
       }
     },
     {
+      "key": "TingShijie",
+      "name": "🌍┆听界┆有声",
+      "type": 3,
+      "api": "csp_TingShijie",
+      "searchable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "Market",
       "name": "🛒┆网盘┆市场",
       "type": 3,
@@ -925,7 +929,26 @@
       "style": {
         "type": "list"
       },
-      "ext": "AWmNzXUj5sW3E9cmHg7HzJYgcAvvRz30uYzOo5s+V+dNu26wvhfMrZXAaq9RcngbFaXU6gtq9etJ6nql9shxXjY567AyaX/mLQYkQNARHNfUnsxZ3sLFpUWallggHoCuAf0dAiLFsgi3T9KAB9sPHpuYrBF26N3YZX6a62CsVtBgqMXEP0Apg8s12I6R7dUOT0F6+Cr0+P3JmOcA98Ir/RkGi0AaWDwQSPtVOarYdbvhy1WzXn//N9hGjuXYhRnJgOmBiWPZAacCyxbFHLV0G/vjjbEXMK7fLa1KLdJ9RWWz9/Z0UevEdx2CEqTKsJFjD7WOxrsubZps5ylQj3ZQqBF0m9A8wBDhz2oksq5VrXsUolAHAKrNaz0t8K13IRbkxA3fYUH6v2YTzcz5HYrAz7McDNJyDfXLIw3bVwH+FU97"
+      "ext": {
+        "categories": [
+          {
+            "name": "潇洒资源一",
+            "url": "https://pan.quark.cn/s/969cc97687d3"
+          },
+          {
+            "name": "潇洒资源二",
+            "url": "https://drive.uc.cn/s/ba531661b3eb4"
+          },
+          {
+            "name": "奇奇更新一",
+            "url": "https://pan.quark.cn/s/ab00f85da8ea"
+          },
+          {
+            "name": "奇奇更新二",
+            "url": "https://drive.uc.cn/s/ef22fcbfdd934"
+          }
+        ]
+      }
     },
     {
       "key": "push_agent",
