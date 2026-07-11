@@ -1,5 +1,5 @@
 {
-  "spider": "./fish07080115.jar;md5;0c8105385e9eb76c619f870748cc1cea",
+  "spider": "./934836235_2_1783691760866.png;md5;01aeca771c222e9a65fae459a9bf0745",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -8,10 +8,16 @@
       "key": "Douban",
       "name": "💖正林西充影视💖",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_PianDan",
       "indexs": 1,
       "searchable": 0,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "home": {
+          "douban": "./lib/douban.json",
+          "tmdb": "./lib/tmdb.json"
+        }
+      }
     },
     {
       "key": "YGP",
@@ -884,6 +890,28 @@
       "changeable": 1
     },
     {
+      "key": "TingShijie",
+      "name": "🌍┆听界┆有声",
+      "type": 3,
+      "api": "csp_TingShijie",
+      "searchable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingYou",
+      "name": "🎧┆听友┆有声",
+      "type": 3,
+      "api": "csp_TingYou",
+      "searchable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "TingBook",
       "name": "📻┆六月┆有声",
       "type": 3,
@@ -904,17 +932,6 @@
       "filterable": 1,
       "indexs": 0,
       "ext": "https://m.ting15.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "TingShijie",
-      "name": "🌍┆听界┆有声",
-      "type": 3,
-      "api": "csp_TingShijie",
-      "searchable": 1,
-      "indexs": 0,
       "style": {
         "type": "list"
       }
